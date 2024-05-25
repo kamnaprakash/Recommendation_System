@@ -1,0 +1,8 @@
+streamlit
+streamlit_webrtc
+av
+cv2
+numpy
+mediapipe
+keras.models
+webbrowser
