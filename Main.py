@@ -5,9 +5,9 @@ import music
 import quotes
 
 page_modules = {
-    "Home": home,
-    "Books": books,
-    "Music": music,
+    "Main Page": home,
+    "Page 2": books,
+    "Page 3": music,
     "Quotes": quotes,
 }
 
